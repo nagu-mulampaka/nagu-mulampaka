@@ -1,11 +1,7 @@
-## Hi there 👋
+## Hi i'm Nagu Mulampaka - Master of Computer Applications 
+**Java Full Stack Developer** - Java • Spring Boot • REST APIs • Microservices • SQL • ReactJS
 
-<!--
-**nagu-mulampaka/nagu-mulampaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 currently Projects : ""
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
