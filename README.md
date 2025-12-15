@@ -1,4 +1,4 @@
-## Hi i'm Mulampaka Nagu - Master of Computer Applications 
+## Hi i'm Nagu Mulampaka - Master of Computer Applications 
 **Java Full Stack Developer** - Java • Spring Boot • REST APIs • Microservices • SQL • ReactJS
 
 - 🔭 current Project : "My Diray Management System" (HTML, CSS + Springboot(Java) + My SQL)
